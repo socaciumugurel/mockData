@@ -1,5 +1,5 @@
 { 
-   "employees":[ 
+   "lineChartSeries":[ 
       { 
          "name":"Installation",
          "data":[ 
