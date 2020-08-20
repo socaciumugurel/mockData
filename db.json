@@ -140,32 +140,27 @@
   {
     "id": "java",
     "label": "java",
-    "value": 247,
-    "color": "hsl(79, 70%, 50%)"
+    "value": 247
   },
   {
     "id": "scala",
     "label": "scala",
-    "value": 379,
-    "color": "hsl(107, 70%, 50%)"
+    "value": 379
   },
   {
     "id": "go",
     "label": "go",
-    "value": 41,
-    "color": "hsl(145, 70%, 50%)"
+    "value": 41
   },
   {
     "id": "python",
     "label": "python",
-    "value": 460,
-    "color": "hsl(350, 70%, 50%)"
+    "value": 460
   },
   {
     "id": "javascript",
     "label": "javascript",
-    "value": 134,
-    "color": "hsl(10, 70%, 50%)"
+    "value": 134
   }
 ],
    "people":[
