@@ -55,60 +55,6 @@
     ]
   },
   {
-    "id": "france",
-    "color": "hsl(232, 70%, 50%)",
-    "data": [
-      {
-        "x": "plane",
-        "y": 257
-      },
-      {
-        "x": "helicopter",
-        "y": 47
-      },
-      {
-        "x": "boat",
-        "y": 118
-      },
-      {
-        "x": "train",
-        "y": 217
-      },
-      {
-        "x": "subway",
-        "y": 33
-      },
-      {
-        "x": "bus",
-        "y": 246
-      },
-      {
-        "x": "car",
-        "y": 46
-      },
-      {
-        "x": "moto",
-        "y": 251
-      },
-      {
-        "x": "bicycle",
-        "y": 270
-      },
-      {
-        "x": "horse",
-        "y": 232
-      },
-      {
-        "x": "skateboard",
-        "y": 186
-      },
-      {
-        "x": "others",
-        "y": 185
-      }
-    ]
-  },
-  {
     "id": "us",
     "color": "hsl(178, 70%, 50%)",
     "data": [
@@ -159,60 +105,6 @@
       {
         "x": "others",
         "y": 110
-      }
-    ]
-  },
-  {
-    "id": "germany",
-    "color": "hsl(158, 70%, 50%)",
-    "data": [
-      {
-        "x": "plane",
-        "y": 60
-      },
-      {
-        "x": "helicopter",
-        "y": 220
-      },
-      {
-        "x": "boat",
-        "y": 222
-      },
-      {
-        "x": "train",
-        "y": 186
-      },
-      {
-        "x": "subway",
-        "y": 108
-      },
-      {
-        "x": "bus",
-        "y": 69
-      },
-      {
-        "x": "car",
-        "y": 25
-      },
-      {
-        "x": "moto",
-        "y": 193
-      },
-      {
-        "x": "bicycle",
-        "y": 111
-      },
-      {
-        "x": "horse",
-        "y": 90
-      },
-      {
-        "x": "skateboard",
-        "y": 45
-      },
-      {
-        "x": "others",
-        "y": 198
       }
     ]
   },
@@ -272,21 +164,6 @@
   }
 ],
    "barChartSeries": [
-  {
-    "country": "AD",
-    "hot dog": 176,
-    "hot dogColor": "hsl(313, 70%, 50%)",
-    "burger": 138,
-    "burgerColor": "hsl(318, 70%, 50%)",
-    "sandwich": 16,
-    "sandwichColor": "hsl(322, 70%, 50%)",
-    "kebab": 193,
-    "kebabColor": "hsl(58, 70%, 50%)",
-    "fries": 44,
-    "friesColor": "hsl(76, 70%, 50%)",
-    "donut": 128,
-    "donutColor": "hsl(26, 70%, 50%)"
-  },
   {
     "country": "AE",
     "hot dog": 166,
@@ -361,21 +238,6 @@
     "friesColor": "hsl(322, 70%, 50%)",
     "donut": 125,
     "donutColor": "hsl(183, 70%, 50%)"
-  },
-  {
-    "country": "AM",
-    "hot dog": 44,
-    "hot dogColor": "hsl(158, 70%, 50%)",
-    "burger": 137,
-    "burgerColor": "hsl(171, 70%, 50%)",
-    "sandwich": 135,
-    "sandwichColor": "hsl(105, 70%, 50%)",
-    "kebab": 54,
-    "kebabColor": "hsl(217, 70%, 50%)",
-    "fries": 126,
-    "friesColor": "hsl(90, 70%, 50%)",
-    "donut": 186,
-    "donutColor": "hsl(148, 70%, 50%)"
   }
 ],
    "pieChart":[
